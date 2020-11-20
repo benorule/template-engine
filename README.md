@@ -12,7 +12,7 @@ Video of deployed application: https://drive.google.com/file/d/1q8Cs1GhTl3mSQsRm
 ## Description 
 A CLI application that allows employers to quickly organise information about their employees.
 ## Installation Instructions 
-Download from GitHub by cloning the repository or downloading the zipe file.
+Download from GitHub by cloning the repository or downloading the zip file.
 ## Usage Information 
 Type node engine.js in the command line to start the program and answer the prompts.
 ## Contribution Guidelines 
