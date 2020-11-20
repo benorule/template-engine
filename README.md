@@ -24,7 +24,7 @@ Type node engine.js in the command line.
 * Email: benorule@outlook.com
 * License: MIT
 
-Some information about the development process:
+# Some information about the development process:
 
 The functionality of this application revolves around one array and three interrelated functions. 
 
